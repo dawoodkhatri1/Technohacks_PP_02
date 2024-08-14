@@ -17,3 +17,7 @@ After Adding some value of Fahrenheit, the output looks like this:
 After Adding some value of Celsius, the output looks like this:
 
 ![Capture3](https://github.com/dawoodkhatri1/Technohacks_PP_02/assets/136968266/b0e48d65-98ce-42b7-9482-79895a450615)
+
+## License
+
+[MIT License](LICENSE)
